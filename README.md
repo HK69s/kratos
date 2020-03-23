@@ -12,7 +12,7 @@ kratos-dream是由kratos-master二次开发而来的。
 
 文章页面的代码样式
 
-![](https://exiled.top/img/str.png)
+![drawdream](https://exiled.top/img/str.png)
 
 当发布文章为状态时候首页看到的代码样式：
 
@@ -23,3 +23,4 @@ kratos-dream是由kratos-master二次开发而来的。
 ![](https://exiled.top/img/str2.png)
 
 演示网站：https://exiled.top
+
