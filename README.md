@@ -22,5 +22,5 @@ kratos-dream是由kratos-master二次开发而来的。
 
 ![](https://exiled.top/img/str2.png)
 
-演示网站：https://exiled.top
+
 
